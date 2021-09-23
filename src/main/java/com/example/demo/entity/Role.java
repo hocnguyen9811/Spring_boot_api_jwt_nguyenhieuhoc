@@ -13,7 +13,7 @@ import java.util.Set;
 @Setter
 public class Role extends BaseEntity {
 
-    private String roleName;
+    private String roleName; 
 
     private String roleKey;
 
